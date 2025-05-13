@@ -1,4 +1,4 @@
-# 🚀 Curso Full Stack - Lista de Tarefas 
+# 🚀 Curso Full Stack - Lista de Tarefas 2
 
 Este repositório contém a resolução da **Lista de Tarefas** do curso de Desenvolvimento Full Stack. O objetivo é colocar em prática os conhecimentos adquiridos sobre lógica de programação, estruturas de controle, vetores, matrizes, funções e manipulação de objetos em JavaScript.
 
