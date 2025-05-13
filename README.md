@@ -1,44 +1,35 @@
-# 🚀 Curso Full Stack - Lista de Tarefas 2
+# 📘 Curso Full Stack - Lista de Tarefas 1
 
-Este repositório contém a resolução da **Lista de Tarefas** do curso de Desenvolvimento Full Stack. O objetivo é colocar em prática os conhecimentos adquiridos sobre lógica de programação, estruturas de controle, vetores, matrizes, funções e manipulação de objetos em JavaScript.
+Este repositório contém a resolução da **Lista de Tarefas 1** do curso de Desenvolvimento Full Stack. O principal objetivo é praticar os fundamentos da lógica de programação usando JavaScript, com foco em estruturas de controle, condicionais e repetições.
 
-## 📋 Conteúdo das Tarefas
+## 🧠 Tópicos Abordados
 
-A lista é composta por **50 exercícios** com foco em:
+A lista contém **15 exercícios** que exploram os seguintes conceitos:
 
-- 🧠 Lógica de programação
-- 📦 Vetores e Matrizes
-- 🔁 Estruturas de repetição
-- 🔍 Condicionais
-- 🧮 Funções
-- 🧾 Manipulação de objetos e arrays
-- 💻 Simulações de sistemas práticos (ex: reservas de hotéis)
+- ✅ Estruturas condicionais (`if`, `else`, `else if`, `switch`)
+- 🔁 Estruturas de repetição (`for`, `while`)
+- 📊 Cálculos matemáticos simples
+- 🔢 Manipulação de entrada e saída de dados
+- 🧮 Exercícios de lógica clássica (fatorial, Fibonacci, classificação, ordenação)
 
 ## 📁 Organização do Repositório
 
-- Cada exercício está separado em um arquivo individual para facilitar a leitura, testes e manutenção.
-- A estrutura de diretórios segue o formato abaixo:
-  
-/lista-de-tarefas-2
+Os exercícios estão organizados em arquivos separados para facilitar a leitura e testes:
+
+/lista-de-tarefas-1
 │
 ├── exercicio01.js
 ├── exercicio02.js
 ├── ...
-├── exercicio50.js
+├── exercicio15.js
+└── README.md
 
-## 💡 Objetivos de Aprendizado
+## 📚 Pré-requisitos
+Node.js instalado na máquina
 
-Praticar estruturas de controle de fluxo;
+Um editor de código (VS Code, por exemplo)
 
-Aplicar manipulação de dados com vetores e objetos;
+Terminal ou console para rodar os scripts
 
-Desenvolver programas com lógica robusta e reaproveitamento de código;
-
-Simular pequenos sistemas, como controle de aluguel de carros, reservas de hotéis, validação de gabaritos etc.
-
-## 📚 Requisitos
-
-Node.js ou navegador moderno para rodar os scripts.
-
-Editor de código como VSCode para editar os arquivos.
-
+## 🧑‍💻 Autor
+Este repositório foi desenvolvido por Fellippe Pereira como parte das atividades do curso de Desenvolvimento Full Stack.
