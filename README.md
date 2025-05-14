@@ -24,6 +24,25 @@ Os exercícios estão organizados em arquivos separados para facilitar a leitura
 ├── exercicio15.js
 └── README.md
 
+
+## ✅ Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/cbfelp/Curso-Dev-Full-Stack-Atividade-1.git
+2. Acesse o diretório do projeto:
+
+cd Curso-Dev-Full-Stack-Atividade-1/lista-de-tarefas-1
+
+Execute um dos exercícios usando Node.js:
+
+node exercicio01.js
+
+💡 Dica: Se o exercício pedir entrada do usuário, utilize bibliotecas como prompt-sync:
+
+npm install prompt-sync
+
+
 ## 📚 Pré-requisitos
 Node.js instalado na máquina
 
